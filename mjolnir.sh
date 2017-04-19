@@ -6,4 +6,5 @@ read dir
 echo -n "Enter a path to copy files TO >"
 read drive
 #Copies files in dir directory to drive directory:
+echo "Your files are on their way!"
 cp -r $dir $drive

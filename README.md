@@ -1,5 +1,5 @@
 # Mjolnir_DR:
-Hello! This is Mjolnir_DR, a simple portable application to be used for data collection and reading on Windows and Linux.
+Hello! This is Mjolnir_DR, a simple portable application to be used for data collection and reading on Windows, Mac and Linux.
 
 # Features and Limitations:
 (Please keep current!)

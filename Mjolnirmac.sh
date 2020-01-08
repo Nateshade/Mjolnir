@@ -1,4 +1,4 @@
-#Mjolnir_DR for Mac Shell script
+#Mjolnir for Mac Shell script
 #Asks for directory to copy files from:
 echo -n "Enter a directory to copy files FROM > "
 read dir

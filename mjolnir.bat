@@ -2,10 +2,10 @@
 ::Make screen cleaner
 echo off
 ::Title
-echo Mjolnir_DR
+echo Mjolnir
 pause
 ::The actual program
-set /p dir1="Enter name of directory to copy from(Include slashes and all): "
-set /p dir2="Enter name of directory to copy to(Include slashes and all): "
+set /p dir1="Enter path of directory to copy from: "
+set /p dir2="Enter path of directory to copy to: "
 xcopy "%dir1%" "%dir2%"
 pause

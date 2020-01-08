@@ -1,4 +1,4 @@
-::Mjolnir_DR for Windows Batch script
+::Mjolnir for Windows Batch script
 ::Make screen cleaner
 echo off
 ::Title

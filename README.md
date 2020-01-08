@@ -1,15 +1,9 @@
 # Mjolnir_DR:
-Hello! This is Mjolnir_DR, a simple portable application to be used for data collection and reading on Windows, Mac and Linux.
+Hello! This is Mjolnir, a simple portable application designed to simplify copying files via the command line on Windows, Mac and Linux.
 
 # Features and Limitations:
-(Please keep current!)
-You can use Mjolnir_DR quickly copy-paste files to a thumb drive or SD card. This can only be used, however, on computers that already are unlocked, and encrypted files cannot be decrypted using this software. This can be fixed, but I am not a coding wizard, so if you want to be able to do those things with this software, please help me with this code. If you do, please add comments to tell what it is doing, and modify the readme with the new features.
+You can use Mjolnir to quickly copy-paste files. it's basically a portable copy tool for multiple platforms for the CLI.
+It is a software that you can put on a thumb drive and use to copy a directory to said thumb drive through the command line. Nothing much, just one of my first scripting projects. I wrote these scripts when I was 17, I didn't really realize then that they were so redundant, however I am keeping these up for posterity, and maybe I'll build on them one day.
+Thanks all,
 
-PLEASE DO NOT USE THIS SOFTWARE INAPPROPRIATELY! This software is ONLY for convenience, testing, and other such white hat purposes.
-
-# Everything else you need to know:
-As I said, I am no code wizard. if you think I am bad at coding, just fix my errors, or make a branch or fork that is better. Please, don't be a grouch.
-I am 17, and I learned most of my coding skills myself, or with online tools.
-
-
-# Thanks all.
+//RR

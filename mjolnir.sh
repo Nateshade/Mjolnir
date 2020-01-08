@@ -1,4 +1,4 @@
-#Mjolnir_DR for Linux Shell script
+#Mjolnir for Linux Shell script
 #Asks for directory to copy files from:
 echo -n "Enter a directory to copy files FROM > "
 read dir
